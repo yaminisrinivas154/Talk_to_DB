@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+SQLAlchemy
+SpeechRecognition
+pydub
+python-multipart
+google-generativeai
+python-dotenv
